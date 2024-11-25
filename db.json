@@ -1,0 +1,108 @@
+{
+  "constructors": [
+    {
+      "id": "1",
+      "name": "Иван Иванов"
+    },
+    {
+      "id": "2",
+      "name": "Мария Смирнова"
+    },
+    {
+      "id": "3",
+      "name": "Петр Петров"
+    }
+  ],
+  "applications": [
+    {
+      "id": "1",
+      "constructorId": 1,
+      "documentName": "Проект A"
+    },
+    {
+      "id": "2",
+      "constructorId": 1,
+      "documentName": "Проект B"
+    },
+    {
+      "id": "3",
+      "constructorId": 1,
+      "documentName": "Проект C"
+    },
+    {
+      "id": "4",
+      "constructorId": 2,
+      "documentName": "Проект A"
+    },
+    {
+      "id": "5",
+      "constructorId": 2,
+      "documentName": "Проект D"
+    },
+    {
+      "id": "6",
+      "constructorId": 2,
+      "documentName": "Проект E"
+    },
+    {
+      "id": "7",
+      "constructorId": 3,
+      "documentName": "Проект A"
+    },
+    {
+      "id": "8",
+      "constructorId": 3,
+      "documentName": "Проект F"
+    },
+    {
+      "id": "9",
+      "constructorId": 3,
+      "documentName": "Проект G"
+    },
+    {
+      "id": "832f",
+      "constructorId": 1,
+      "documentName": "123123"
+    },
+    {
+      "id": "8b23",
+      "constructorId": 1,
+      "documentName": "Проект А"
+    },
+    {
+      "id": "237c",
+      "constructorId": 1,
+      "documentName": "Проект N"
+    },
+    {
+      "id": "7573",
+      "constructorId": 2,
+      "documentName": "Проект C"
+    },
+    {
+      "id": "10fb",
+      "constructorId": 1,
+      "documentName": "123123123"
+    },
+    {
+      "id": "05b6",
+      "constructorId": 3,
+      "documentName": "zxczxczxc"
+    },
+    {
+      "id": "ef23",
+      "constructorId": 3,
+      "documentName": "sdaasddsadas"
+    },
+    {
+      "id": "42cb",
+      "constructorId": 1,
+      "documentName": "asdasda12123123"
+    },
+    {
+      "id": "12a2",
+      "constructorId": 1,
+      "documentName": "777"
+    }
+  ]
+}
